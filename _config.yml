@@ -1,0 +1,12 @@
+# Site settings
+title: "Amir Othman"
+email: 
+description:
+baseurl: ""
+url: "http://amirothman.github.io"
+twitter_username: amirothman
+github_username:  amirothman
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
