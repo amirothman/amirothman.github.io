@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Amir Othman. Some of my interests, not in particular order are:
+Some of my interests, not in particular order are:
 
   - Computer Science
   - Languages
