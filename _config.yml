@@ -1,12 +1,23 @@
-# Site settings
-title: "Amir Othman"
-email: 
-description:
-baseurl: ""
-url: "http://amirothman.github.io"
-twitter_username: amirothman
-github_username:  amirothman
+# My variables
+name: Amir Othman
+description: Machine Learning, Lyricism, Music, Food and everything else. 
+google_verification: null
 
-# Build settings
-markdown: redcarpet
-permalink: pretty
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
