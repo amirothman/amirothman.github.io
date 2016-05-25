@@ -67,4 +67,4 @@ I've truncated the output a bit, but in my eyes it works. Now, we have all the t
 
 Now all we need is to bring everything together. My example can be accessed [here](https://gist.github.com/amirothman/e29875f0f34148ecf340d5039664ccd2). If you utilize a while loop with a sleep, you can have yourself a nice simple crawler. Collect more news feeds and let your crawler run for some time. Watch it grow like a little baby. Be aware however, certain sites do not like the fact that you are scraping. Be polite to not DDOS their servers. We all gotta eat.
 
-On the next post I will demonstrate some ways we can augment and explore our text data to uncover some cool patterns.
+Hopefully next time I will be able to demonstrate some ways we can augment and explore our text data to uncover some cool patterns.
