@@ -159,7 +159,7 @@ Awesome. You've reached here. This is the machine learning step. The most intere
 
 ## MFCC Model
 
-![mfcc model](mfcc_model.png)
+![mfcc model]({{ site.url }}/assets/img/mfcc_model.png)
 
 Change the X, y, X_test, and y_test variable to load the pickled vectors of your desire. If you are following this tutorial, it would be:
 
@@ -185,7 +185,7 @@ One thing that you may have to further edit is the number of outputs of your neu
 
 ## Spectral Contrast Model
 
-![spectral contrast model](spectral-contrast_peaks_model.png)
+![spectral contrast model]({{ site.url }}/assets/img/spectral-contrast_peaks_model.png)
 
 As before, change the X, y, X_test, and y_test variable to load the pickled vectors of your desire. For our example:
 
@@ -211,7 +211,7 @@ One thing that you may have to further edit is the number of outputs of your neu
 
 ## Merged Model
 
-![merged model](model.png)
+![merged model]({{ site.url }}/assets/img/model.png)
 
 Here, we have merged model. It combining the two previous model and concatenate them into one model. We have two different example (X vectors), so a bit different than before, we will have to change X_1, X_2, X_test_1, X_test_2, y and y_test. For our example:
 
