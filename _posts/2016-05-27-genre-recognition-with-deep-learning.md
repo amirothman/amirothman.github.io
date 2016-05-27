@@ -5,7 +5,7 @@ title: Genre Recognition With Deep Learning
 
 # Genre Recognition With Deep Learning
 
-I've attempted genre recognition using deep learning. In this guide, I try to describe the steps needed to be taken to run my horrible code. Haha. This is mainly for the learning experience.
+I've attempted genre recognition using deep learning. In this guide, I try to describe the steps needed to be taken to run my horrible [code](https://github.com/amirothman/genre-erkennung-pipeline). Haha. This is mainly for the learning experience.
 
 Since this is a machine learning task, we shall follow the typical procedure of:
 
