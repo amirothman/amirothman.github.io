@@ -267,6 +267,7 @@ The trained weights should be saved in the following hdf5 file:
     model_weights/merged_model_weights.hdf5
 
 So what we have to do to query the model are:
+
   * extract the features from the song
   * load the model architecture
   * load the model weights
